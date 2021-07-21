@@ -1,0 +1,11 @@
+.img{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYU1IQ0dSpFAC5rIvOpYv_d9VB-1y5KakQbQ&usqp=CAU");
+}
+.avatar{
+    width: 23%;
+    border-radius: 100px;
+}
+.img2{
+    width: 250%;
+    border-radius: 100px;
+}
